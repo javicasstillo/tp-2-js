@@ -9,6 +9,8 @@ do{
         break
     } 
 
+    
+
     let convertirNumero = parseInt(numeroIngresado)
 
     if (isNaN(convertirNumero)){
